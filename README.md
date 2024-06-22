@@ -5,4 +5,4 @@ I took the HackerRank test on 21/06/2024. The certificate can be viewed [here](h
 
 # Programs / Questions
 - [Products Without Sales(solution).txt](https://github.com/KaanchiGarg/sql-intermediate-HackerRank/blob/main/Product%20Without%20Sales(solution).txt)
-- [invoies per country(solution).txt]
+- [invoies per country(solution).txt](https://github.com/KaanchiGarg/sql-intermediate-HackerRank/blob/main/invoices%20per%20country(solution).txt)
